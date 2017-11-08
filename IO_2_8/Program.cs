@@ -12,8 +12,6 @@ namespace IO_2_8
     {
         delegate int DelegateType(int arguments);
 
-        
-
         static int silnia_r(int n)
         {
             int factorial = 1;
