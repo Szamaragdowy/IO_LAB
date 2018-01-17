@@ -10,8 +10,6 @@ namespace IO_3_11
     {
         delegate int myDeleageType(int i);
 
-        stati
-
         static void Main(string[] args)
         {
             myDeleageType foo = x => x + 1;
