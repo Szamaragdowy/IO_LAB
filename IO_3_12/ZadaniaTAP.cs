@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Xml;
 
 
-namespace IO_3
+namespace ZAD_TAP
 {
     public class ZadaniaTAP
     {

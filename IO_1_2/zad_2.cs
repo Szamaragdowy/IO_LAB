@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 * Nie moze utrzymać kliku sesji na raz
 */
 
-namespace IO_1_2
+namespace ZAD_2
 {
     class zad_2
     {

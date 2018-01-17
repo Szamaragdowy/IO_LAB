@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IO_4
+namespace ZAD_TAP_server_client
 {
     class Server
     {

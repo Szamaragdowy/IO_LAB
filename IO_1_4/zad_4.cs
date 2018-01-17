@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 //Zamek - lock został użyty w celu synchronizacji części krytycznej  -  Zmiana koloru wypisywanego tekstu
 
-namespace IO_1_4
+namespace ZAD_4
 {
     class zad_4
     {

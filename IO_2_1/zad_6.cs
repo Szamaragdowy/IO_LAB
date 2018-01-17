@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace IO_2_6
+namespace ZAD_6
 {
     class Program
     {

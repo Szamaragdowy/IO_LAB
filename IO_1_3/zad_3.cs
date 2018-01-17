@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 // przez nie zsynchronizowaną metodę do kolorowania kolory są losowe
 
-namespace IO_1_3
+namespace ZAD_3
 {
     class zad_3
     {

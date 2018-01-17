@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace IO_1
+namespace ZAD_1
 {
     class zad_1
     {
